@@ -7,41 +7,32 @@ It provides detailed country information, including flags, names, and additional
 
 🔗 PROJECT LINKS
 
--GitHub Repository: [Explore Repository](https://github.com/MhayreeJhaine/Explore)
+-GitHub Repository: [ Explore Repository](https://github.com/MhayreeJhaine/Explore)
 
--Live Demo:[Test on Appetize.io](https://appetize.io/app/b_rjiuvulluyzkuvgjyicmixi4vm)
+-Live Demo: [ Test on Appetize.io](https://appetize.io/app/b_rjiuvulluyzkuvgjyicmixi4vm)
 
--Country API:[Rest Countries API](https://restcountries.com/v3.1/all)
+-Country API:[ Rest Countries API](https://restcountries.com/v3.1/all)
 
 🚀 FEATURES
 
 -API Integration: Fetches data from a Country API.
-
 -Fetch and display a list of countries from a country API.
-
 -Navigate between country details using a carousel.
-
 -Detailed information page for each selected country.
-
 -View country flags and essential details.
-
 -Toggle between Light and Dark mode for a customizable experience.
-
 -Search for a country by name.
 
 🔌 TECHNOLGIES USED
 
 -React Native (Expo)
-
 -React Query for data fetching and caching.
-
 -Expo Router for navigation.
-
 -TypeScript
-
 -Appetize.io for online testing.
 
 📝 CLONE THE REPOSITORY
+
 -git clone https://github.com/MhayreeJhaine/Explore
 -cd Explore
 
